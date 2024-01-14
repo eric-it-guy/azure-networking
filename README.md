@@ -1,4 +1,4 @@
-<h1>Azure Computing & Networking</h1>
+<h1>Microsoft Azure - Computing & Networking</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
