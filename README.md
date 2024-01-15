@@ -24,27 +24,27 @@ Project consists of observing ICMP traffic, SSH traffic, DHCP traffic, DNS Traff
 
 <p align="center">
 <br/>Filter ICMP Traffic (Wireshark): <br/>
-<img src="https://ibb.co/frwJpNc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="./images/PacketCapture.png" height="80%" width="80%" alt="Microsoft Azure"/>
 <br />
 <br />
 Ping Ubuntu VM form Windows 10 VM  <br/>
-<img src="https://ibb.co/8YvGx2c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="./images/PowerShell.png" height="80%" width="80%" alt="Microsoft Azure"/>
 <br />
 <br />
 Block Traffic NSG  <br/>
-<img src="https://ibb.co/Prb226R" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="./images/network_security_group.png" height="80%" width="80%" alt="Microsoft Azure"/>
 <br />
 <br />
 Re-enable NSG  <br/>
-<img src="https://ibb.co/Pry7SGGc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="./images/NSG_change.png" height="80%" width="80%" alt="Microsoft Azure"/>
 <br />
 <br />
 SSH into Ubuntu VM <br/>
-<img src="https://ibb.co/5v9Lp9w" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="./images/ssh.png" height="80%" width="80%" alt="Microsoft Azure"/>
 <br />
 <br />
 Observe DHCP traffic in Wireshark:  <br/>
-<img src="https://ibb.co/qxHGNL9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="./images/dhcp.png" height="80%" width="80%" alt="Microsoft Azure"/>
 <br />
 <br />
 </p>
