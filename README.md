@@ -24,27 +24,27 @@ Project consists of observing ICMP traffic, SSH traffic, DHCP traffic, DNS Traff
 
 <p align="center">
 <br/>Filter ICMP Traffic (Wireshark): <br/>
-<img src="./images/PacketCapture.png" height="80%" width="80%" alt="Microsoft Azure"/>
+<!-- <img src="./images/PacketCapture.png" height="80%" width="80%" alt="Microsoft Azure"/> -->
 <br />
 <br />
 Ping Ubuntu VM form Windows 10 VM  <br/>
-<img src="./images/PowerShell.png" height="80%" width="80%" alt="Microsoft Azure"/>
+<!-- <img src="./images/PowerShell.png" height="80%" width="80%" alt="Microsoft Azure"/> -->
 <br />
 <br />
 Block Traffic NSG  <br/>
-<img src="./images/network_security_group.png" height="80%" width="80%" alt="Microsoft Azure"/>
+<!-- <img src="./images/network_security_group.png" height="80%" width="80%" alt="Microsoft Azure"/> -->
 <br />
 <br />
 Re-enable NSG  <br/>
-<img src="./images/NSG_change.png" height="80%" width="80%" alt="Microsoft Azure"/>
+<!-- <img src="./images/NSG_change.png" height="80%" width="80%" alt="Microsoft Azure"/> -->
 <br />
 <br />
 SSH into Ubuntu VM <br/>
-<img src="./images/ssh.png" height="80%" width="80%" alt="Microsoft Azure"/>
+<!-- <img src="./images/ssh.png" height="80%" width="80%" alt="Microsoft Azure"/> -->
 <br />
 <br />
 Observe DHCP traffic in Wireshark:  <br/>
-<img src="./images/dhcp.png" height="80%" width="80%" alt="Microsoft Azure"/>
+<!-- <img src="./images/dhcp.png" height="80%" width="80%" alt="Microsoft Azure"/> -->
 <br />
 <br />
 </p>
